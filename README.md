@@ -26,3 +26,15 @@ Lista de Tarefas
 - [ ] Criar página login/senha
 - [ ] Criar lista em **Markdown**
 - [x] Aprender __~~Markdown~~__
+
+___
+Segue os conhecimentos de Markdown
+
+Tabelas:
+Num | Nome | Nota
+---|---|---
+01 | Marcel | 85.0
+02 | Carlos | 10.0
+03 | Rosa | 75.0
+
+terminou a tabela
