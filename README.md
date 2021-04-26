@@ -2,6 +2,9 @@
  *Portfólio Principal*
  Será necessário fazer **correções** no *HTML*
  
+ Aprendendo 
+ ## **Markdown**
+ 
  Listas:
   1. lista1
  2. lista2
@@ -38,3 +41,6 @@ Num | Nome | Nota
 03 | Rosa | 75.0
 
 terminou a tabela
+
+Não entendo direito para que serve o comando `document.getElementById()` da linguage JavaScript.
+Foi usado os sinais ` Cra``se `
